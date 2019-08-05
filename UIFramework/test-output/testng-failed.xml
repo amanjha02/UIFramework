@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test2(failed)">
+    <classes>
+      <class name="com.UIFramwork.Hitachi.FSA.TestScript.Test2">
+        <methods>
+          <include name="testLogin2"/>
+          <include name="beforeSuit"/>
+          <include name="afterMethod"/>
+          <include name="testLogin3"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="testLogin1"/>
+        </methods>
+      </class> <!-- com.UIFramwork.Hitachi.FSA.TestScript.Test2 -->
+      <class name="com.UIFramwork.Hitachi.FSA.TestScript.Test1">
+        <methods>
+          <include name="testLogin1"/>
+          <include name="beforeSuit"/>
+          <include name="afterMethod"/>
+          <include name="testLogin3"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="testLogin2"/>
+        </methods>
+      </class> <!-- com.UIFramwork.Hitachi.FSA.TestScript.Test1 -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite] -->
