@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RegresionSuite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.UIFramwork.Hitachi.FSA.Helper.Listner.RetryListner"/>
+  </listeners>
+  <test thread-count="5" name="FirstTest(failed)">
+    <classes>
+      <class name="com.UIFramework.A">
+        <methods>
+          <include name="Test1"/>
+        </methods>
+      </class> <!-- com.UIFramework.A -->
+    </classes>
+  </test> <!-- FirstTest(failed) -->
+</suite> <!-- Failed suite [RegresionSuite] -->

@@ -3,28 +3,28 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test2(failed)">
     <classes>
-      <class name="com.UIFramwork.Hitachi.FSA.TestScript.Test2">
-        <methods>
-          <include name="testLogin2"/>
-          <include name="beforeSuit"/>
-          <include name="afterMethod"/>
-          <include name="testLogin3"/>
-          <include name="beforeClass"/>
-          <include name="beforeMethod"/>
-          <include name="testLogin1"/>
-        </methods>
-      </class> <!-- com.UIFramwork.Hitachi.FSA.TestScript.Test2 -->
       <class name="com.UIFramwork.Hitachi.FSA.TestScript.Test1">
         <methods>
           <include name="testLogin1"/>
           <include name="beforeSuit"/>
           <include name="afterMethod"/>
+          <include name="BeforeTest"/>
           <include name="testLogin3"/>
           <include name="beforeClass"/>
           <include name="beforeMethod"/>
-          <include name="testLogin2"/>
         </methods>
       </class> <!-- com.UIFramwork.Hitachi.FSA.TestScript.Test1 -->
+      <class name="com.UIFramwork.Hitachi.FSA.TestScript.Test2">
+        <methods>
+          <include name="beforeSuit"/>
+          <include name="afterMethod"/>
+          <include name="testLogin3"/>
+          <include name="BeforeTest"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="testLogin1"/>
+        </methods>
+      </class> <!-- com.UIFramwork.Hitachi.FSA.TestScript.Test2 -->
     </classes>
   </test> <!-- Test2(failed) -->
 </suite> <!-- Failed suite [Suite] -->

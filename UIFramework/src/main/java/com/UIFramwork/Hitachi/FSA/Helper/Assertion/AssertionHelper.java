@@ -6,22 +6,29 @@ import org.testng.Assert;
 import com.UIFramwork.Hitachi.FSA.Helper.logger.LoggerHelper;
 
 public class AssertionHelper {
-	Logger log=LoggerHelper.getLogger(VarificationHelper.class);
+	
+	private static Logger log=LoggerHelper.getLogger(AssertionHelper.class);
 	
 	public static void verifyText(String s1,String s2) {
+		log.info("Comparing two object");
 		Assert.assertEquals(s1, s2);
+		
 	}
 	public static void makeTrue() {
+		log.info("making script pass.....");
 		Assert.assertTrue(true);
 	}
 	public static void makeTrue(String message) {
+		log.info("making script pass.....");
 		Assert.assertTrue(true,message);
 	}
 	public static void makeFalse() {
-		Assert.assertTrue(true);
+		log.info("making script fail.....");
+		Assert.assertTrue(false);
 	}
 	public static void makeFalse(String message) {
-		Assert.assertTrue(true,message);
+		log.info("making script pass.....");
+		Assert.assertTrue(false,message);
 	}
 	public static void verifyTrue(boolean status) {
 		Assert.assertTrue(status);
@@ -30,6 +37,9 @@ public class AssertionHelper {
 		Assert.assertTrue(status);
 	}
 	public static void verifyNullObject(String  S1) {
+		Assert.assertNull(S1);
+	}
+	public static void verifyNotNullObject(String  S1) {
 		Assert.assertNull(S1);
 	}
 }

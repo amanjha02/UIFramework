@@ -2,9 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
   <test thread-count="5" name="Test2">
-  <listners>
-  <listner />
-  </listners>
+  
     <classes>
       <class name="com.UIFramwork.Hitachi.FSA.TestScript.Test1"/>
        <class name="com.UIFramwork.Hitachi.FSA.TestScript.Test2"/>
