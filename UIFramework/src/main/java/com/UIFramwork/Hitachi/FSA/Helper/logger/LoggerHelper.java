@@ -2,6 +2,7 @@ package com.UIFramwork.Hitachi.FSA.Helper.logger;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+import org.testng.annotations.Test;
 
 import com.UIFramwork.Hitachi.FSA.Helper.Resource.resourceHelper;
 

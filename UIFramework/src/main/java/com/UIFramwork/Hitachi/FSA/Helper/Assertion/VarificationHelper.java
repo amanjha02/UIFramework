@@ -10,7 +10,7 @@ private WebDriver driver;
 	
 	Logger log=LoggerHelper.getLogger(VarificationHelper.class);
 	
-	public void VarificationHelper(WebDriver driver) {		
+	public  VarificationHelper(WebDriver driver) {		
 		this.driver=driver;		
 		log.info("VarificationHelper driver initiated");
 	}

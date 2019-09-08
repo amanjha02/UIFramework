@@ -14,7 +14,7 @@ public class DropDownHelper {
 	private WebDriver driver;
 	Logger log=LoggerHelper.getLogger(DropDownHelper.class);
 	
-	public void DropDownHelper(WebDriver driver) {
+	public  DropDownHelper(WebDriver driver) {
 		log.info("Dropdown Helper driver intialized");
 		this.driver=driver;
 		log.info("DropDownHelper object created");

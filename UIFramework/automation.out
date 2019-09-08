@@ -28,3 +28,474 @@
 2019-09-06 09:36:21 INFO  AssertionHelper:26 - making script fail.....
 2019-09-06 09:36:21 INFO  AssertionHelper:18 - making script pass.....
 2019-09-06 09:36:21 INFO  AssertionHelper:26 - making script fail.....
+2019-09-06 14:44:12 INFO  LoggerHelper:25 - Logger is configured
+2019-09-06 15:01:31 INFO  Testbase:126 - Initialize Web driver: 1433208870
+2019-09-06 15:01:31 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-06 15:01:31 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-06 15:01:31 INFO  WaitHelper:125 - Page isloaded
+2019-09-06 15:23:16 INFO  ExtenListner:41 - FirstTest Class Started..
+2019-09-06 15:23:16 INFO  ExtenListner:77 - Test1 Test Started..
+2019-09-06 15:23:16 ERROR ExtenListner:57 - Test1 Test Failed..java.lang.AssertionError: expected [false] but found [true]
+2019-09-06 15:23:16 INFO  ExtenListner:27 - FirstTest Test Finished..
+2019-09-06 15:23:16 INFO  ExtenListner:41 - Test1 Class Started..
+2019-09-06 15:23:16 INFO  ExtenListner:77 - Test1 Test Started..
+2019-09-06 15:23:16 INFO  ExtenListner:87 - Test1 Test Passed..
+2019-09-06 15:23:16 INFO  ExtenListner:27 - Test1 Test Finished..
+2019-09-06 15:23:16 INFO  ExtenListner:41 - Test2 Class Started..
+2019-09-06 15:23:16 INFO  ExtenListner:77 - Test1 Test Started..
+2019-09-06 15:23:16 INFO  ExtenListner:87 - Test1 Test Passed..
+2019-09-06 15:23:16 INFO  ExtenListner:27 - Test2 Test Finished..
+2019-09-06 15:25:42 INFO  ExtenListner:41 - FirstTest Class Started..
+2019-09-06 15:25:42 INFO  ExtenListner:77 - Test1 Test Started..
+2019-09-06 15:25:42 ERROR ExtenListner:57 - Test1 Test Failed..java.lang.AssertionError: expected [false] but found [true]
+2019-09-06 15:25:42 INFO  ExtenListner:27 - FirstTest Test Finished..
+2019-09-06 15:25:42 INFO  ExtenListner:41 - Test1 Class Started..
+2019-09-06 15:25:42 INFO  ExtenListner:77 - Test1 Test Started..
+2019-09-06 15:25:42 INFO  ExtenListner:87 - Test1 Test Passed..
+2019-09-06 15:25:42 INFO  ExtenListner:27 - Test1 Test Finished..
+2019-09-06 15:25:43 INFO  ExtenListner:41 - Test2 Class Started..
+2019-09-06 15:25:43 INFO  ExtenListner:77 - Test1 Test Started..
+2019-09-06 15:25:43 INFO  ExtenListner:87 - Test1 Test Passed..
+2019-09-06 15:25:43 INFO  ExtenListner:27 - Test2 Test Finished..
+2019-09-06 16:01:27 INFO  ExtenListner:41 - FirstTest Class Started..
+2019-09-06 16:01:27 INFO  ExtenListner:77 - Test1 Test Started..
+2019-09-06 16:01:27 ERROR ExtenListner:57 - Test1 Test Failed..java.lang.AssertionError: expected [false] but found [true]
+2019-09-06 16:01:27 INFO  ExtenListner:27 - FirstTest Test Finished..
+2019-09-06 16:01:27 INFO  ExtenListner:41 - Test1 Class Started..
+2019-09-06 16:01:27 INFO  ExtenListner:77 - Test1 Test Started..
+2019-09-06 16:01:27 INFO  ExtenListner:87 - Test1 Test Passed..
+2019-09-06 16:01:27 INFO  ExtenListner:27 - Test1 Test Finished..
+2019-09-06 16:01:27 INFO  ExtenListner:41 - Test2 Class Started..
+2019-09-06 16:01:27 INFO  ExtenListner:77 - Test1 Test Started..
+2019-09-06 16:01:27 INFO  ExtenListner:87 - Test1 Test Passed..
+2019-09-06 16:01:27 INFO  ExtenListner:27 - Test2 Test Finished..
+2019-09-06 16:07:40 INFO  ExtenListner:41 - FirstTest Class Started..
+2019-09-06 16:07:40 INFO  ExtenListner:77 - Test1 Test Started..
+2019-09-06 16:07:40 ERROR ExtenListner:57 - Test1 Test Failed..java.lang.AssertionError: expected [false] but found [true]
+2019-09-06 16:07:40 INFO  ExtenListner:27 - FirstTest Test Finished..
+2019-09-06 16:07:40 INFO  ExtenListner:41 - Test1 Class Started..
+2019-09-06 16:07:40 INFO  ExtenListner:77 - Test1 Test Started..
+2019-09-06 16:07:40 INFO  ExtenListner:87 - Test1 Test Passed..
+2019-09-06 16:07:40 INFO  ExtenListner:27 - Test1 Test Finished..
+2019-09-06 16:07:40 INFO  ExtenListner:41 - Test2 Class Started..
+2019-09-06 16:07:40 INFO  ExtenListner:77 - Test1 Test Started..
+2019-09-06 16:07:40 INFO  ExtenListner:87 - Test1 Test Passed..
+2019-09-06 16:07:40 INFO  ExtenListner:27 - Test2 Test Finished..
+2019-09-07 11:35:51 INFO  ExtenListner:42 - FirstTest Class Started..
+2019-09-07 11:35:51 ERROR ExtenListner:58 - Test1 Test Failed..java.lang.AssertionError: expected [false] but found [true]
+2019-09-07 11:35:52 INFO  ExtenListner:42 - Test1 Class Started..
+2019-09-07 11:35:52 INFO  ExtenListner:42 - Test2 Class Started..
+2019-09-07 12:15:36 INFO  ExtenListner:42 - FirstTest Class Started..
+2019-09-07 12:15:36 ERROR ExtenListner:58 - Test1 Test Failed..java.lang.AssertionError: expected [false] but found [true]
+2019-09-07 12:15:37 INFO  ExtenListner:42 - Test1 Class Started..
+2019-09-07 12:15:37 INFO  ExtenListner:42 - Test2 Class Started..
+2019-09-07 12:19:48 INFO  ExtenListner:42 - FirstTest Class Started..
+2019-09-07 12:19:48 ERROR ExtenListner:58 - Test1 Test Failed..java.lang.AssertionError: expected [false] but found [true]
+2019-09-07 12:19:49 INFO  ExtenListner:42 - Test1 Class Started..
+2019-09-07 12:19:49 INFO  ExtenListner:42 - Test2 Class Started..
+2019-09-07 12:21:14 INFO  ExtenListner:42 - FirstTest Class Started..
+2019-09-07 12:21:14 ERROR ExtenListner:58 - Test1 Test Failed..java.lang.AssertionError: expected [false] but found [true]
+2019-09-07 12:21:14 INFO  ExtenListner:42 - Test1 Class Started..
+2019-09-07 12:21:14 INFO  ExtenListner:42 - Test2 Class Started..
+2019-09-07 12:37:21 INFO  ExtenListner:42 - FirstTest Class Started..
+2019-09-07 12:37:21 ERROR ExtenListner:58 - Test1 Test Failed..java.lang.AssertionError: expected [false] but found [true]
+2019-09-07 12:37:21 INFO  ExtenListner:27 - FirstTest Test Finished..
+2019-09-07 12:37:21 INFO  ExtenListner:42 - Test1 Class Started..
+2019-09-07 12:37:21 INFO  ExtenListner:27 - Test1 Test Finished..
+2019-09-07 12:37:21 INFO  ExtenListner:42 - Test2 Class Started..
+2019-09-07 12:37:21 INFO  ExtenListner:27 - Test2 Test Finished..
+2019-09-07 12:37:21 INFO  ExtenListner:42 - Takescerrnshot Class Started..
+2019-09-07 12:37:31 INFO  Testbase:133 - Initialize Web driver: 418513504
+2019-09-07 12:37:31 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-07 12:37:31 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-07 12:37:31 INFO  WaitHelper:125 - Page isloaded
+2019-09-07 12:37:42 INFO  ExtenListner:27 - Takescerrnshot Test Finished..
+2019-09-07 12:41:37 INFO  ExtenListner:42 - FirstTest Class Started..
+2019-09-07 12:41:37 ERROR ExtenListner:58 - Test1 Test Failed..java.lang.AssertionError: expected [false] but found [true]
+2019-09-07 12:41:37 INFO  ExtenListner:27 - FirstTest Test Finished..
+2019-09-07 12:41:37 INFO  ExtenListner:42 - Test1 Class Started..
+2019-09-07 12:41:37 INFO  ExtenListner:27 - Test1 Test Finished..
+2019-09-07 12:41:37 INFO  ExtenListner:42 - Test2 Class Started..
+2019-09-07 12:41:37 INFO  ExtenListner:27 - Test2 Test Finished..
+2019-09-07 12:41:37 INFO  ExtenListner:42 - Takescerrnshot Class Started..
+2019-09-07 12:41:44 INFO  Testbase:133 - Initialize Web driver: 1347016882
+2019-09-07 12:41:44 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-07 12:41:44 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-07 12:41:44 INFO  WaitHelper:125 - Page isloaded
+2019-09-07 12:41:52 INFO  ExtenListner:27 - Takescerrnshot Test Finished..
+2019-09-07 12:45:21 INFO  Testbase:133 - Initialize Web driver: 1313960293
+2019-09-07 12:45:21 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-07 12:45:21 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-07 12:45:21 INFO  WaitHelper:125 - Page isloaded
+2019-09-07 12:48:37 INFO  Testbase:133 - Initialize Web driver: 2086068243
+2019-09-07 12:48:37 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-07 12:48:37 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-07 12:48:37 INFO  WaitHelper:125 - Page isloaded
+2019-09-07 12:50:04 INFO  Testbase:133 - Initialize Web driver: 494953170
+2019-09-07 12:50:04 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-07 12:50:04 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-07 12:50:04 INFO  WaitHelper:125 - Page isloaded
+2019-09-07 12:51:24 INFO  Testbase:133 - Initialize Web driver: 1275009283
+2019-09-07 12:51:24 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-07 12:51:24 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-07 12:51:24 INFO  WaitHelper:125 - Page isloaded
+2019-09-07 12:51:36 INFO  Testbase:133 - Initialize Web driver: 1079190991
+2019-09-07 12:51:36 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-07 12:51:36 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-07 12:51:36 INFO  WaitHelper:125 - Page isloaded
+2019-09-07 13:28:22 INFO  ExtenListner:31 - FirstTest Class Started..
+2019-09-07 13:28:28 INFO  Testbase:135 - Initialize Web driver: 259630944
+2019-09-07 13:28:28 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-07 13:28:28 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-07 13:28:29 INFO  WaitHelper:125 - Page isloaded
+2019-09-07 13:28:33 INFO  ExtenListner:54 - Test1 Test Started..
+2019-09-07 13:28:33 ERROR ExtenListner:42 - Test1 Test Failed..java.lang.AssertionError: expected [false] but found [true]
+2019-09-07 13:28:35 INFO  ExtenListner:23 - FirstTest Test Finished..
+2019-09-07 13:28:35 INFO  ExtenListner:31 - Test1 Class Started..
+2019-09-07 13:28:35 INFO  ExtenListner:54 - Test1 Test Started..
+2019-09-07 13:28:35 INFO  ExtenListner:60 - Test1 Test Passed..
+2019-09-07 13:28:35 INFO  ExtenListner:23 - Test1 Test Finished..
+2019-09-07 13:28:35 INFO  ExtenListner:31 - Test2 Class Started..
+2019-09-07 13:28:35 INFO  ExtenListner:54 - Test1 Test Started..
+2019-09-07 13:28:35 INFO  ExtenListner:60 - Test1 Test Passed..
+2019-09-07 13:28:35 INFO  ExtenListner:23 - Test2 Test Finished..
+2019-09-07 13:28:35 INFO  ExtenListner:31 - Takescerrnshot Class Started..
+2019-09-07 13:28:40 INFO  Testbase:135 - Initialize Web driver: 1312843412
+2019-09-07 13:28:40 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-07 13:28:40 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-07 13:28:40 INFO  WaitHelper:125 - Page isloaded
+2019-09-07 13:28:44 INFO  ExtenListner:54 - TakeScreen Test Started..
+2019-09-07 13:28:46 INFO  ExtenListner:60 - TakeScreen Test Passed..
+2019-09-07 13:28:47 INFO  ExtenListner:23 - Takescerrnshot Test Finished..
+2019-09-07 13:40:29 INFO  ExtenListner:31 - FirstTest Class Started..
+2019-09-07 13:40:35 INFO  Testbase:127 - Initialize Web driver: 1456061400
+2019-09-07 13:40:35 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-07 13:40:35 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-07 13:40:35 INFO  WaitHelper:125 - Page isloaded
+2019-09-07 13:40:39 INFO  Testbase:68 - **************Test1Started***************
+2019-09-07 13:40:39 INFO  ExtenListner:54 - Test1 Test Started..
+2019-09-07 13:40:40 ERROR ExtenListner:42 - Test1 Test Failed..java.lang.AssertionError: expected [false] but found [true]
+2019-09-07 13:40:40 INFO  Testbase:86 - **************Test1Finished***************
+2019-09-07 13:40:41 INFO  ExtenListner:23 - FirstTest Test Finished..
+2019-09-07 13:40:41 INFO  ExtenListner:31 - Test1 Class Started..
+2019-09-07 13:40:41 INFO  ExtenListner:54 - Test1 Test Started..
+2019-09-07 13:40:41 INFO  ExtenListner:60 - Test1 Test Passed..
+2019-09-07 13:40:41 INFO  ExtenListner:23 - Test1 Test Finished..
+2019-09-07 13:40:41 INFO  ExtenListner:31 - Test2 Class Started..
+2019-09-07 13:40:41 INFO  ExtenListner:54 - Test1 Test Started..
+2019-09-07 13:40:41 INFO  ExtenListner:60 - Test1 Test Passed..
+2019-09-07 13:40:41 INFO  ExtenListner:23 - Test2 Test Finished..
+2019-09-07 13:40:41 INFO  ExtenListner:31 - Takescerrnshot Class Started..
+2019-09-07 13:40:47 INFO  Testbase:127 - Initialize Web driver: 1995505717
+2019-09-07 13:40:47 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-07 13:40:47 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-07 13:40:47 INFO  WaitHelper:125 - Page isloaded
+2019-09-07 13:40:51 INFO  Testbase:68 - **************TakeScreenStarted***************
+2019-09-07 13:40:51 INFO  ExtenListner:54 - TakeScreen Test Started..
+2019-09-07 13:40:53 INFO  ExtenListner:60 - TakeScreen Test Passed..
+2019-09-07 13:40:53 INFO  Testbase:86 - **************TakeScreenFinished***************
+2019-09-07 13:40:54 INFO  ExtenListner:23 - Takescerrnshot Test Finished..
+2019-09-07 13:44:36 INFO  ExtenListner:31 - FirstTest Class Started..
+2019-09-07 13:44:42 INFO  Testbase:127 - Initialize Web driver: 1699578227
+2019-09-07 13:44:42 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-07 13:44:42 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-07 13:44:42 INFO  WaitHelper:125 - Page isloaded
+2019-09-07 13:44:46 INFO  Testbase:68 - **************Test1Started***************
+2019-09-07 13:44:46 INFO  ExtenListner:54 - Test1 Test Started..
+2019-09-07 13:44:46 ERROR ExtenListner:42 - Test1 Test Failed..java.lang.AssertionError: expected [false] but found [true]
+2019-09-07 13:44:46 INFO  Testbase:86 - **************Test1Finished***************
+2019-09-07 13:44:48 INFO  ExtenListner:23 - FirstTest Test Finished..
+2019-09-07 13:44:48 INFO  ExtenListner:31 - Test1 Class Started..
+2019-09-07 13:44:48 INFO  ExtenListner:54 - Test1 Test Started..
+2019-09-07 13:44:48 INFO  ExtenListner:60 - Test1 Test Passed..
+2019-09-07 13:44:48 INFO  ExtenListner:23 - Test1 Test Finished..
+2019-09-07 13:44:48 INFO  ExtenListner:31 - Test2 Class Started..
+2019-09-07 13:44:48 INFO  ExtenListner:54 - Test1 Test Started..
+2019-09-07 13:44:48 INFO  ExtenListner:60 - Test1 Test Passed..
+2019-09-07 13:44:48 INFO  ExtenListner:23 - Test2 Test Finished..
+2019-09-07 13:44:48 INFO  ExtenListner:31 - Takescerrnshot Class Started..
+2019-09-07 13:44:53 INFO  Testbase:127 - Initialize Web driver: 514453513
+2019-09-07 13:44:53 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-07 13:44:53 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-07 13:44:53 INFO  WaitHelper:125 - Page isloaded
+2019-09-07 13:44:57 INFO  Testbase:68 - **************TakeScreenStarted***************
+2019-09-07 13:44:57 INFO  ExtenListner:54 - TakeScreen Test Started..
+2019-09-07 13:44:59 INFO  ExtenListner:60 - TakeScreen Test Passed..
+2019-09-07 13:44:59 INFO  Testbase:86 - **************TakeScreenFinished***************
+2019-09-07 13:45:00 INFO  ExtenListner:23 - Takescerrnshot Test Finished..
+2019-09-07 13:47:01 INFO  ExtenListner:31 - FirstTest Class Started..
+2019-09-07 13:47:01 INFO  ExtenListner:54 - Test1 Test Started..
+2019-09-07 13:47:01 ERROR ExtenListner:42 - Test1 Test Failed..java.lang.AssertionError: expected [false] but found [true]
+2019-09-07 13:47:01 INFO  ExtenListner:23 - FirstTest Test Finished..
+2019-09-07 13:47:01 INFO  ExtenListner:31 - Test1 Class Started..
+2019-09-07 13:47:01 INFO  ExtenListner:54 - Test1 Test Started..
+2019-09-07 13:47:01 INFO  ExtenListner:60 - Test1 Test Passed..
+2019-09-07 13:47:01 INFO  ExtenListner:23 - Test1 Test Finished..
+2019-09-07 13:47:01 INFO  ExtenListner:31 - Test2 Class Started..
+2019-09-07 13:47:01 INFO  ExtenListner:54 - Test1 Test Started..
+2019-09-07 13:47:01 INFO  ExtenListner:60 - Test1 Test Passed..
+2019-09-07 13:47:01 INFO  ExtenListner:23 - Test2 Test Finished..
+2019-09-07 13:47:01 INFO  ExtenListner:31 - Takescerrnshot Class Started..
+2019-09-07 13:47:07 INFO  Testbase:127 - Initialize Web driver: 1100619942
+2019-09-07 13:47:07 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-07 13:47:07 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-07 13:47:07 INFO  WaitHelper:125 - Page isloaded
+2019-09-07 13:47:11 INFO  Testbase:68 - **************TakeScreenStarted***************
+2019-09-07 13:47:11 INFO  ExtenListner:54 - TakeScreen Test Started..
+2019-09-07 13:47:13 INFO  ExtenListner:60 - TakeScreen Test Passed..
+2019-09-07 13:47:13 INFO  Testbase:86 - **************TakeScreenFinished***************
+2019-09-07 13:47:14 INFO  ExtenListner:23 - Takescerrnshot Test Finished..
+2019-09-08 14:29:03 INFO  Testbase:127 - Initialize Web driver: 494953170
+2019-09-08 14:29:04 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-08 14:29:04 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-08 14:29:04 INFO  WaitHelper:125 - Page isloaded
+2019-09-08 14:29:08 INFO  Testbase:68 - **************testLoginToApplicationStarted***************
+2019-09-08 14:29:34 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (f7508b8d1c7c84f1f9a04bbe11ec0ef3)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :2000 seconds
+2019-09-08 14:29:34 INFO  WaitHelper:138 - element is visible now
+2019-09-08 14:29:34 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-08 14:29:34 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 14:29:35 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 14:29:35 INFO  LoginPage:63 - clicked on sign in link...
+2019-09-08 14:29:41 INFO  LoginPage:69 - entering email address....aman03bitm@gmail.com
+2019-09-08 14:29:42 INFO  LoginPage:75 - entering password....Password
+2019-09-08 14:29:42 INFO  LoginPage:81 - clicking on submit button...
+2019-09-08 14:29:42 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 14:29:42 INFO  JavaScriptHelper:77 - scrolly down vrtically
+2019-09-08 14:29:54 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (f7508b8d1c7c84f1f9a04bbe11ec0ef3)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :2000 seconds
+2019-09-08 14:29:54 INFO  WaitHelper:138 - element is visible now
+2019-09-08 14:29:54 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-08 14:29:54 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 14:29:55 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 14:29:55 INFO  VarificationHelper:15 - VarificationHelper driver initiated
+2019-09-08 14:29:56 INFO  VarificationHelper:21 - element is preasent:-Welcome to your account. Here you can manage all of your personal information and orders.
+2019-09-08 14:29:56 INFO  Testbase:86 - **************testLoginToApplicationFinished***************
+2019-09-08 14:55:08 INFO  Testbase:127 - Initialize Web driver: 1636588948
+2019-09-08 14:55:08 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-08 14:55:08 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-08 14:55:08 INFO  WaitHelper:125 - Page isloaded
+2019-09-08 14:55:12 INFO  Testbase:68 - **************doRegistrationStarted***************
+2019-09-08 14:58:51 INFO  Testbase:127 - Initialize Web driver: 731243659
+2019-09-08 14:58:51 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-08 14:58:51 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-08 14:58:51 INFO  WaitHelper:125 - Page isloaded
+2019-09-08 14:58:55 INFO  Testbase:68 - **************doRegistrationStarted***************
+2019-09-08 14:59:04 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (1eab32d973420d09e3fa5de23dbb4a7b)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :2000 seconds
+2019-09-08 14:59:04 INFO  WaitHelper:138 - element is visible now
+2019-09-08 14:59:04 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-08 14:59:04 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 14:59:05 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 14:59:05 INFO  LoginPage:63 - clicked on sign in link...
+2019-09-08 14:59:08 INFO  LoginPage:96 - entering registration email..1567934948519@gmail.com
+2019-09-08 14:59:10 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (1eab32d973420d09e3fa5de23dbb4a7b)] -> xpath: //*[@id='id_gender1']] for :2000 seconds
+2019-09-08 14:59:10 INFO  WaitHelper:138 - element is visible now
+2019-09-08 14:59:10 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-08 14:59:10 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 14:59:10 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 14:59:11 INFO  RegistrationPage:102 - selecting mr checkbox..
+2019-09-08 14:59:11 INFO  RegistrationPage:114 - entering firstName..firstName
+2019-09-08 14:59:11 INFO  RegistrationPage:120 - entering lastname..lastname
+2019-09-08 14:59:11 INFO  RegistrationPage:132 - entering password..password
+2019-09-08 14:59:11 INFO  RegistrationPage:200 - entering address..address
+2019-09-08 14:59:12 INFO  RegistrationPage:182 - entering yourAddressFirstName..yourAddressFirstName
+2019-09-08 14:59:12 INFO  RegistrationPage:188 - entering yourAddressLastName..yourAddressLastName
+2019-09-08 14:59:13 INFO  RegistrationPage:194 - entering yourAddressCompany..yourAddressCompany
+2019-09-08 14:59:13 INFO  RegistrationPage:212 - entering yourAddressCity..yourAddressCity
+2019-09-08 14:59:13 INFO  RegistrationPage:218 - entering yourAddressState..Alaska
+2019-09-08 14:59:13 INFO  RegistrationPage:224 - entering yourAddressPostCode..99501
+2019-09-08 14:59:13 INFO  RegistrationPage:242 - entering mobilePhone..9999999999
+2019-09-08 14:59:13 INFO  RegistrationPage:248 - entering addressAlias..addressAlias
+2019-09-08 14:59:14 INFO  RegistrationPage:254 - clicked on registration..[[ChromeDriver: chrome on XP (1eab32d973420d09e3fa5de23dbb4a7b)] -> xpath: //*[@id='submitAccount']]
+2019-09-08 14:59:16 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (1eab32d973420d09e3fa5de23dbb4a7b)] -> xpath: //*[contains(text(),'Order history and details')]] for :2000 seconds
+2019-09-08 14:59:16 INFO  WaitHelper:138 - element is visible now
+2019-09-08 14:59:16 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-08 14:59:16 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 14:59:16 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 14:59:17 INFO  VarificationHelper:15 - VarificationHelper driver initiated
+2019-09-08 14:59:17 INFO  VarificationHelper:21 - element is preasent:-Welcome to your account. Here you can manage all of your personal information and orders.
+2019-09-08 14:59:17 INFO  Testbase:86 - **************doRegistrationFinished***************
+2019-09-08 15:26:44 INFO  Testbase:127 - Initialize Web driver: 694069884
+2019-09-08 15:26:44 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-08 15:26:44 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-08 15:26:44 INFO  WaitHelper:125 - Page isloaded
+2019-09-08 15:26:49 INFO  Testbase:68 - **************testLoginToApplicationStarted***************
+2019-09-08 15:26:57 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (62d738d9cf498484c948a88c373e9241)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :2000 seconds
+2019-09-08 15:26:57 INFO  WaitHelper:138 - element is visible now
+2019-09-08 15:26:57 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-08 15:26:57 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:26:58 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:26:58 INFO  LoginPage:63 - clicked on sign in link...
+2019-09-08 15:27:01 INFO  LoginPage:69 - entering email address....aman03bitm@gmail.com
+2019-09-08 15:27:01 INFO  LoginPage:75 - entering password....Password
+2019-09-08 15:27:01 INFO  LoginPage:81 - clicking on submit button...
+2019-09-08 15:27:01 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:27:01 INFO  JavaScriptHelper:77 - scrolly down vrtically
+2019-09-08 15:27:03 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (62d738d9cf498484c948a88c373e9241)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :2000 seconds
+2019-09-08 15:27:03 INFO  WaitHelper:138 - element is visible now
+2019-09-08 15:27:03 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-08 15:27:03 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:27:04 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:27:04 INFO  VarificationHelper:15 - VarificationHelper driver initiated
+2019-09-08 15:27:04 INFO  VarificationHelper:21 - element is preasent:-Welcome to your account. Here you can manage all of your personal information and orders.
+2019-09-08 15:27:04 INFO  Testbase:86 - **************testLoginToApplicationFinished***************
+2019-09-08 15:27:11 INFO  Testbase:127 - Initialize Web driver: 1688770224
+2019-09-08 15:27:11 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-08 15:27:11 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-08 15:27:11 INFO  WaitHelper:125 - Page isloaded
+2019-09-08 15:27:15 INFO  Testbase:68 - **************doRegistrationStarted***************
+2019-09-08 15:27:31 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (f8cf69edca365e6ae1fcfa6f9308f6a3)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :2000 seconds
+2019-09-08 15:27:31 INFO  WaitHelper:138 - element is visible now
+2019-09-08 15:27:31 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-08 15:27:31 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:27:32 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:27:32 INFO  LoginPage:63 - clicked on sign in link...
+2019-09-08 15:27:36 INFO  LoginPage:96 - entering registration email..1567936656463@gmail.com
+2019-09-08 15:27:38 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (f8cf69edca365e6ae1fcfa6f9308f6a3)] -> xpath: //*[@id='id_gender1']] for :2000 seconds
+2019-09-08 15:27:38 INFO  WaitHelper:138 - element is visible now
+2019-09-08 15:27:38 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-08 15:27:38 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:27:39 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:27:39 INFO  RegistrationPage:102 - selecting mr checkbox..
+2019-09-08 15:27:39 INFO  RegistrationPage:114 - entering firstName..firstName
+2019-09-08 15:27:39 INFO  RegistrationPage:120 - entering lastname..lastname
+2019-09-08 15:27:39 INFO  RegistrationPage:132 - entering password..password
+2019-09-08 15:27:40 INFO  RegistrationPage:200 - entering address..address
+2019-09-08 15:27:40 INFO  RegistrationPage:182 - entering yourAddressFirstName..yourAddressFirstName
+2019-09-08 15:27:41 INFO  RegistrationPage:188 - entering yourAddressLastName..yourAddressLastName
+2019-09-08 15:27:41 INFO  RegistrationPage:194 - entering yourAddressCompany..yourAddressCompany
+2019-09-08 15:27:41 INFO  RegistrationPage:212 - entering yourAddressCity..yourAddressCity
+2019-09-08 15:27:41 INFO  RegistrationPage:218 - entering yourAddressState..Alaska
+2019-09-08 15:27:42 INFO  RegistrationPage:224 - entering yourAddressPostCode..99501
+2019-09-08 15:27:42 INFO  RegistrationPage:242 - entering mobilePhone..9999999999
+2019-09-08 15:27:42 INFO  RegistrationPage:248 - entering addressAlias..addressAlias
+2019-09-08 15:27:42 INFO  RegistrationPage:254 - clicked on registration..[[ChromeDriver: chrome on XP (f8cf69edca365e6ae1fcfa6f9308f6a3)] -> xpath: //*[@id='submitAccount']]
+2019-09-08 15:27:44 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (f8cf69edca365e6ae1fcfa6f9308f6a3)] -> xpath: //*[contains(text(),'Order history and details')]] for :2000 seconds
+2019-09-08 15:27:45 INFO  WaitHelper:138 - element is visible now
+2019-09-08 15:27:45 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-08 15:27:45 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:27:45 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:27:45 INFO  VarificationHelper:15 - VarificationHelper driver initiated
+2019-09-08 15:27:45 INFO  VarificationHelper:21 - element is preasent:-Welcome to your account. Here you can manage all of your personal information and orders.
+2019-09-08 15:27:45 INFO  Testbase:86 - **************doRegistrationFinished***************
+2019-09-08 15:27:52 INFO  Testbase:127 - Initialize Web driver: 1769227988
+2019-09-08 15:27:52 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-08 15:27:52 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-08 15:27:52 INFO  WaitHelper:125 - Page isloaded
+2019-09-08 15:27:56 INFO  Testbase:68 - **************verifyLowestFirstPriceListInProduct_deatilsPageStarted***************
+2019-09-08 15:28:06 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (d348cf433c8575fa6bf46b5f77ca7062)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :2000 seconds
+2019-09-08 15:28:06 INFO  WaitHelper:138 - element is visible now
+2019-09-08 15:28:06 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-08 15:28:06 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:28:07 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:28:07 INFO  NavigationMenu:58 - clickin on : WOMEN
+2019-09-08 15:28:11 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (d348cf433c8575fa6bf46b5f77ca7062)] -> xpath: //*[@id='layered_block_left']/p] for :2000 seconds
+2019-09-08 15:28:11 INFO  WaitHelper:138 - element is visible now
+2019-09-08 15:28:11 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-08 15:28:11 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:28:12 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:28:12 INFO  DropDownHelper:18 - Dropdown Helper driver intialized
+2019-09-08 15:28:12 INFO  DropDownHelper:20 - DropDownHelper object created
+2019-09-08 15:28:12 INFO  DropDownHelper:33 - select value by text
+2019-09-08 15:28:20 INFO  ProductCategoryPage:162 - 16.51
+2019-09-08 15:28:20 INFO  ProductCategoryPage:162 - 27.00
+2019-09-08 15:28:20 INFO  ProductCategoryPage:162 - 26.00
+2019-09-08 15:28:20 INFO  ProductCategoryPage:162 - 50.99
+2019-09-08 15:28:20 INFO  ProductCategoryPage:162 - 28.98
+2019-09-08 15:28:20 INFO  ProductCategoryPage:162 - 30.50
+2019-09-08 15:28:20 INFO  ProductCategoryPage:162 - 16.40
+2019-09-08 15:28:20 INFO  ProductCategoryPage:146 - obj.get(i)..16
+2019-09-08 15:28:20 INFO  ProductCategoryPage:147 - obj.get(i+1)..27
+2019-09-08 15:28:20 INFO  ProductCategoryPage:149 - price filter is not working
+2019-09-08 15:28:20 INFO  Testbase:86 - **************verifyLowestFirstPriceListInProduct_deatilsPageFinished***************
+2019-09-08 15:49:06 INFO  Testbase:127 - Initialize Web driver: 2145896000
+2019-09-08 15:49:06 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-08 15:49:06 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-08 15:49:06 INFO  WaitHelper:125 - Page isloaded
+2019-09-08 15:49:10 INFO  Testbase:68 - **************testLoginToApplicationStarted***************
+2019-09-08 15:49:19 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (b3f30d7b11d090382019a5e343be0796)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :2000 seconds
+2019-09-08 15:49:19 INFO  WaitHelper:138 - element is visible now
+2019-09-08 15:49:19 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-08 15:49:19 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:49:19 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:49:19 INFO  LoginPage:63 - clicked on sign in link...
+2019-09-08 15:49:22 INFO  LoginPage:69 - entering email address....aman03bitm@gmail.com
+2019-09-08 15:49:22 INFO  LoginPage:75 - entering password....Password
+2019-09-08 15:49:23 INFO  LoginPage:81 - clicking on submit button...
+2019-09-08 15:49:23 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:49:23 INFO  JavaScriptHelper:77 - scrolly down vrtically
+2019-09-08 15:49:25 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (b3f30d7b11d090382019a5e343be0796)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :2000 seconds
+2019-09-08 15:49:25 INFO  WaitHelper:138 - element is visible now
+2019-09-08 15:49:25 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-08 15:49:25 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:49:25 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:49:26 INFO  VarificationHelper:15 - VarificationHelper driver initiated
+2019-09-08 15:49:26 INFO  VarificationHelper:21 - element is preasent:-Welcome to your account. Here you can manage all of your personal information and orders.
+2019-09-08 15:49:26 INFO  Testbase:86 - **************testLoginToApplicationFinished***************
+2019-09-08 15:49:33 INFO  Testbase:127 - Initialize Web driver: 1883971879
+2019-09-08 15:49:33 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-08 15:49:33 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-08 15:49:33 INFO  WaitHelper:125 - Page isloaded
+2019-09-08 15:49:37 INFO  Testbase:68 - **************doRegistrationStarted***************
+2019-09-08 15:49:45 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (6e37c892e6e557fc56dd3ffc49793f9c)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :2000 seconds
+2019-09-08 15:49:45 INFO  WaitHelper:138 - element is visible now
+2019-09-08 15:49:45 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-08 15:49:45 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:49:46 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:49:46 INFO  LoginPage:63 - clicked on sign in link...
+2019-09-08 15:49:49 INFO  LoginPage:96 - entering registration email..1567937989166@gmail.com
+2019-09-08 15:49:51 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (6e37c892e6e557fc56dd3ffc49793f9c)] -> xpath: //*[@id='id_gender1']] for :2000 seconds
+2019-09-08 15:49:51 INFO  WaitHelper:138 - element is visible now
+2019-09-08 15:49:51 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-08 15:49:51 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:49:51 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:49:51 INFO  RegistrationPage:102 - selecting mr checkbox..
+2019-09-08 15:49:51 INFO  RegistrationPage:114 - entering firstName..firstName
+2019-09-08 15:49:52 INFO  RegistrationPage:120 - entering lastname..lastname
+2019-09-08 15:49:52 INFO  RegistrationPage:132 - entering password..password
+2019-09-08 15:49:52 INFO  RegistrationPage:200 - entering address..address
+2019-09-08 15:49:53 INFO  RegistrationPage:182 - entering yourAddressFirstName..yourAddressFirstName
+2019-09-08 15:49:53 INFO  RegistrationPage:188 - entering yourAddressLastName..yourAddressLastName
+2019-09-08 15:49:54 INFO  RegistrationPage:194 - entering yourAddressCompany..yourAddressCompany
+2019-09-08 15:49:54 INFO  RegistrationPage:212 - entering yourAddressCity..yourAddressCity
+2019-09-08 15:49:54 INFO  RegistrationPage:218 - entering yourAddressState..Alaska
+2019-09-08 15:49:55 INFO  RegistrationPage:224 - entering yourAddressPostCode..99501
+2019-09-08 15:49:55 INFO  RegistrationPage:242 - entering mobilePhone..9999999999
+2019-09-08 15:49:55 INFO  RegistrationPage:248 - entering addressAlias..addressAlias
+2019-09-08 15:49:55 INFO  RegistrationPage:254 - clicked on registration..[[ChromeDriver: chrome on XP (6e37c892e6e557fc56dd3ffc49793f9c)] -> xpath: //*[@id='submitAccount']]
+2019-09-08 15:49:57 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (6e37c892e6e557fc56dd3ffc49793f9c)] -> xpath: //*[contains(text(),'Order history and details')]] for :2000 seconds
+2019-09-08 15:49:58 INFO  WaitHelper:138 - element is visible now
+2019-09-08 15:49:58 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-08 15:49:58 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:49:58 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:49:58 INFO  VarificationHelper:15 - VarificationHelper driver initiated
+2019-09-08 15:49:58 INFO  VarificationHelper:21 - element is preasent:-Welcome to your account. Here you can manage all of your personal information and orders.
+2019-09-08 15:49:58 INFO  Testbase:86 - **************doRegistrationFinished***************
+2019-09-08 15:50:05 INFO  Testbase:127 - Initialize Web driver: 167693809
+2019-09-08 15:50:05 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-08 15:50:05 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-08 15:50:05 INFO  WaitHelper:125 - Page isloaded
+2019-09-08 15:50:09 INFO  Testbase:68 - **************verifyLowestFirstPriceListInProduct_deatilsPageStarted***************
+2019-09-08 15:50:17 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (aaa6233202ca42ab63a37577f3a63259)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :2000 seconds
+2019-09-08 15:50:17 INFO  WaitHelper:138 - element is visible now
+2019-09-08 15:50:17 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-08 15:50:17 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:50:18 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:50:18 INFO  NavigationMenu:58 - clickin on : WOMEN
+2019-09-08 15:50:22 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (aaa6233202ca42ab63a37577f3a63259)] -> xpath: //*[@id='layered_block_left']/p] for :2000 seconds
+2019-09-08 15:50:22 INFO  WaitHelper:138 - element is visible now
+2019-09-08 15:50:22 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-08 15:50:22 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:50:22 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-08 15:50:22 INFO  DropDownHelper:18 - Dropdown Helper driver intialized
+2019-09-08 15:50:22 INFO  DropDownHelper:20 - DropDownHelper object created
+2019-09-08 15:50:22 INFO  DropDownHelper:33 - select value by text
+2019-09-08 15:50:30 INFO  ProductCategoryPage:162 - 16.51
+2019-09-08 15:50:30 INFO  ProductCategoryPage:162 - 27.00
+2019-09-08 15:50:30 INFO  ProductCategoryPage:162 - 26.00
+2019-09-08 15:50:30 INFO  ProductCategoryPage:162 - 50.99
+2019-09-08 15:50:30 INFO  ProductCategoryPage:162 - 28.98
+2019-09-08 15:50:31 INFO  ProductCategoryPage:162 - 30.50
+2019-09-08 15:50:31 INFO  ProductCategoryPage:162 - 16.40
+2019-09-08 15:50:31 INFO  ProductCategoryPage:146 - obj.get(i)..16
+2019-09-08 15:50:31 INFO  ProductCategoryPage:147 - obj.get(i+1)..27
+2019-09-08 15:50:31 INFO  ProductCategoryPage:149 - price filter is not working
+2019-09-08 15:50:31 INFO  Testbase:86 - **************verifyLowestFirstPriceListInProduct_deatilsPageFinished***************

@@ -9,7 +9,7 @@ public class LaunchApplication extends Testbase {
 public	WebDriver driver;
 public static void main(String[] args) throws Exception {
 	LaunchApplication l=new LaunchApplication();
-	 l.SetUpDriver(ObjectReader.reader.getBrowserType());
+	 l.setUpDriver(ObjectReader.reader.getBrowserType());
 	
 }
 }

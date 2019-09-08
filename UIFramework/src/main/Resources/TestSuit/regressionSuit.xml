@@ -3,7 +3,8 @@
 <suite name="RegresionSuite">
 
 <listeners>
-<listener  class-name="com.UIFramwork.Hitachi.FSA.Helper.Listner.RetryListner"></listener>
+<!--  <listener  class-name="com.UIFramwork.Hitachi.FSA.Helper.Listner.RetryListner"></listener>-->
+ <listener  class-name="com.UIFramwork.Hitachi.FSA.Helper.Listner.ExtenListner"></listener>
 </listeners>
 
   <test thread-count="5" name="FirstTest">
@@ -21,6 +22,11 @@
    <test thread-count="5" name="Test2">
     <classes>
       <class name="com.UIFramework.C"/>
+    </classes>
+  </test> <!-- Test -->
+  <test thread-count="5" name="Takescerrnshot">
+    <classes>
+      <class name="com.UIFramwork.Hitachi.FSA.TestScript.TakeScreenShot"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

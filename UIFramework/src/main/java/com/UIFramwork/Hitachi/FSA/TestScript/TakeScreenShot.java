@@ -8,6 +8,6 @@ public class TakeScreenShot  extends Testbase{
 @Test
 public void TakeScreen() {
 	driver.get("https://www.google.com/");
-	captureScreen("FirstScreen", driver);
+	captureScreen("FirstScreen",driver);
 }
 }

@@ -13,7 +13,7 @@ public class JavaScriptHelper {
 	
 	Logger log=LoggerHelper.getLogger(JavaScriptHelper.class);
 	
-	public void JavaScriptHelper(WebDriver driver) {		
+	public  JavaScriptHelper(WebDriver driver) {		
 		this.driver=driver;		
 		log.info("Javascript driver initiated");
 	}
@@ -117,5 +117,9 @@ public class JavaScriptHelper {
 	 */
 	public void clickElement(WebElement element) {
 		executeScript("argument[0].click();",element);
+	}
+	public void scrollIntoView(WebElement element){
+		log.info("scroll till web element");
+		executeScript("arguments[0].scrollIntoView()",element);
 	}
 }
