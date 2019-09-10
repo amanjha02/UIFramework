@@ -499,3 +499,96 @@
 2019-09-08 15:50:31 INFO  ProductCategoryPage:147 - obj.get(i+1)..27
 2019-09-08 15:50:31 INFO  ProductCategoryPage:149 - price filter is not working
 2019-09-08 15:50:31 INFO  Testbase:86 - **************verifyLowestFirstPriceListInProduct_deatilsPageFinished***************
+2019-09-10 11:34:08 INFO  Testbase:127 - Initialize Web driver: 94919826
+2019-09-10 11:34:08 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-10 11:34:08 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-10 11:34:08 INFO  WaitHelper:125 - Page isloaded
+2019-09-10 11:34:12 INFO  Testbase:68 - **************testLoginToApplicationStarted***************
+2019-09-10 11:34:28 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (0fe474c382db757c34ce57099493673d)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :2000 seconds
+2019-09-10 11:34:28 INFO  WaitHelper:138 - element is visible now
+2019-09-10 11:34:28 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-10 11:34:28 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-10 11:34:29 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-10 11:34:29 INFO  LoginPage:63 - clicked on sign in link...
+2019-09-10 11:34:31 INFO  LoginPage:69 - entering email address....aman03bitm@gmail.com
+2019-09-10 11:34:31 INFO  LoginPage:75 - entering password....Password
+2019-09-10 11:34:32 INFO  LoginPage:81 - clicking on submit button...
+2019-09-10 11:34:32 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-10 11:34:32 INFO  JavaScriptHelper:77 - scrolly down vrtically
+2019-09-10 11:34:34 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (0fe474c382db757c34ce57099493673d)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :2000 seconds
+2019-09-10 11:34:34 INFO  WaitHelper:138 - element is visible now
+2019-09-10 11:34:34 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-10 11:34:34 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-10 11:34:35 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-10 11:34:35 INFO  VarificationHelper:15 - VarificationHelper driver initiated
+2019-09-10 11:34:35 INFO  VarificationHelper:21 - element is preasent:-Welcome to your account. Here you can manage all of your personal information and orders.
+2019-09-10 11:34:35 INFO  Testbase:86 - **************testLoginToApplicationFinished***************
+2019-09-10 11:34:42 INFO  Testbase:127 - Initialize Web driver: 202064342
+2019-09-10 11:34:42 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-10 11:34:42 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-10 11:34:42 INFO  WaitHelper:125 - Page isloaded
+2019-09-10 11:34:46 INFO  Testbase:68 - **************doRegistrationStarted***************
+2019-09-10 11:34:52 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (ad18a3a8b5cd1c684494479f71d13e6a)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :2000 seconds
+2019-09-10 11:34:52 INFO  WaitHelper:138 - element is visible now
+2019-09-10 11:34:52 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-10 11:34:52 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-10 11:34:53 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-10 11:34:53 INFO  LoginPage:63 - clicked on sign in link...
+2019-09-10 11:34:56 INFO  LoginPage:96 - entering registration email..1568095496422@gmail.com
+2019-09-10 11:34:58 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (ad18a3a8b5cd1c684494479f71d13e6a)] -> xpath: //*[@id='id_gender1']] for :2000 seconds
+2019-09-10 11:34:58 INFO  WaitHelper:138 - element is visible now
+2019-09-10 11:34:58 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-10 11:34:58 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-10 11:34:59 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-10 11:34:59 INFO  RegistrationPage:102 - selecting mr checkbox..
+2019-09-10 11:34:59 INFO  RegistrationPage:114 - entering firstName..firstName
+2019-09-10 11:34:59 INFO  RegistrationPage:120 - entering lastname..lastname
+2019-09-10 11:34:59 INFO  RegistrationPage:132 - entering password..password
+2019-09-10 11:34:59 INFO  RegistrationPage:200 - entering address..address
+2019-09-10 11:35:00 INFO  RegistrationPage:182 - entering yourAddressFirstName..yourAddressFirstName
+2019-09-10 11:35:00 INFO  RegistrationPage:188 - entering yourAddressLastName..yourAddressLastName
+2019-09-10 11:35:01 INFO  RegistrationPage:194 - entering yourAddressCompany..yourAddressCompany
+2019-09-10 11:35:01 INFO  RegistrationPage:212 - entering yourAddressCity..yourAddressCity
+2019-09-10 11:35:01 INFO  RegistrationPage:218 - entering yourAddressState..Alaska
+2019-09-10 11:35:01 INFO  RegistrationPage:224 - entering yourAddressPostCode..99501
+2019-09-10 11:35:01 INFO  RegistrationPage:242 - entering mobilePhone..9999999999
+2019-09-10 11:35:02 INFO  RegistrationPage:248 - entering addressAlias..addressAlias
+2019-09-10 11:35:02 INFO  RegistrationPage:254 - clicked on registration..[[ChromeDriver: chrome on XP (ad18a3a8b5cd1c684494479f71d13e6a)] -> xpath: //*[@id='submitAccount']]
+2019-09-10 11:35:04 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (ad18a3a8b5cd1c684494479f71d13e6a)] -> xpath: //*[contains(text(),'Order history and details')]] for :2000 seconds
+2019-09-10 11:35:04 INFO  WaitHelper:138 - element is visible now
+2019-09-10 11:35:04 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-10 11:35:04 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-10 11:35:05 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-10 11:35:05 INFO  VarificationHelper:15 - VarificationHelper driver initiated
+2019-09-10 11:35:05 INFO  VarificationHelper:21 - element is preasent:-Welcome to your account. Here you can manage all of your personal information and orders.
+2019-09-10 11:35:05 INFO  Testbase:86 - **************doRegistrationFinished***************
+2019-09-10 11:35:12 INFO  Testbase:127 - Initialize Web driver: 1911168986
+2019-09-10 11:35:12 INFO  WaitHelper:37 - implicit wait has been set to2000
+2019-09-10 11:35:12 INFO  WaitHelper:123 - Waiting for page to load for :SECONDSsecond
+2019-09-10 11:35:12 INFO  WaitHelper:125 - Page isloaded
+2019-09-10 11:35:16 INFO  Testbase:68 - **************verifyLowestFirstPriceListInProduct_deatilsPageStarted***************
+2019-09-10 11:35:29 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (68776831d01f58b21497505b4e0421c5)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :2000 seconds
+2019-09-10 11:35:29 INFO  WaitHelper:138 - element is visible now
+2019-09-10 11:35:29 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-10 11:35:29 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-10 11:35:29 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-10 11:35:29 INFO  NavigationMenu:58 - clickin on : WOMEN
+2019-09-10 11:35:32 INFO  WaitHelper:135 - waiting for :[[ChromeDriver: chrome on XP (68776831d01f58b21497505b4e0421c5)] -> xpath: //*[@id='layered_block_left']/p] for :2000 seconds
+2019-09-10 11:35:32 INFO  WaitHelper:138 - element is visible now
+2019-09-10 11:35:32 INFO  Testbase:160 - capturing ui navigation screen...
+2019-09-10 11:35:32 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-10 11:35:33 INFO  JavaScriptHelper:18 - Javascript driver initiated
+2019-09-10 11:35:33 INFO  DropDownHelper:18 - Dropdown Helper driver intialized
+2019-09-10 11:35:33 INFO  DropDownHelper:20 - DropDownHelper object created
+2019-09-10 11:35:33 INFO  DropDownHelper:33 - select value by text
+2019-09-10 11:35:41 INFO  ProductCategoryPage:162 - 16.51
+2019-09-10 11:35:41 INFO  ProductCategoryPage:162 - 27.00
+2019-09-10 11:35:41 INFO  ProductCategoryPage:162 - 26.00
+2019-09-10 11:35:41 INFO  ProductCategoryPage:162 - 50.99
+2019-09-10 11:35:41 INFO  ProductCategoryPage:162 - 28.98
+2019-09-10 11:35:41 INFO  ProductCategoryPage:162 - 30.50
+2019-09-10 11:35:41 INFO  ProductCategoryPage:162 - 16.40
+2019-09-10 11:35:41 INFO  ProductCategoryPage:146 - obj.get(i)..16
+2019-09-10 11:35:41 INFO  ProductCategoryPage:147 - obj.get(i+1)..27
+2019-09-10 11:35:41 INFO  ProductCategoryPage:149 - price filter is not working
+2019-09-10 11:35:41 INFO  Testbase:86 - **************verifyLowestFirstPriceListInProduct_deatilsPageFinished***************

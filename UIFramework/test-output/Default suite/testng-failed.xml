@@ -3,16 +3,16 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.UIFramwork.Hitachi.FSA.TestScript.TakeScreenShot">
+      <class name="com.UIFramwork.Hitachi.FSA.TestScript.Registration.RegistrationTest">
         <methods>
-          <include name="beforeSuit"/>
+          <include name="beforeSuite"/>
+          <include name="afterTest"/>
+          <include name="doRegistration"/>
+          <include name="beforeTest"/>
           <include name="afterMethod"/>
-          <include name="BeforeTest"/>
-          <include name="beforeClass"/>
-          <include name="TakeScreen"/>
           <include name="beforeMethod"/>
         </methods>
-      </class> <!-- com.UIFramwork.Hitachi.FSA.TestScript.TakeScreenShot -->
+      </class> <!-- com.UIFramwork.Hitachi.FSA.TestScript.Registration.RegistrationTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
