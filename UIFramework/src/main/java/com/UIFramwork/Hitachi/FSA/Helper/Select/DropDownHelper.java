@@ -57,8 +57,8 @@ public class DropDownHelper {
 	  List <WebElement> elemnetList=select.getOptions();
 	  List< String> Valuelist=new LinkedList<String>();
 	  for (WebElement ele : elemnetList) {
-	log.info("Dropdown value is "+ele.getText());
-	Valuelist.add(ele.getText());
+	  log.info("Dropdown value is "+ele.getText());
+	  Valuelist.add(ele.getText());
 	
 	}
 	return Valuelist;

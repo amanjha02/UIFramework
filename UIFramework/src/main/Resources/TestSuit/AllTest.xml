@@ -7,15 +7,15 @@
     </classes>
   </test> <!-- Test -->
   
-   <test thread-count="5" name="RegistrationTest">
+  <!--   <test thread-count="5" name="RegistrationTest">
     <classes>
       <class name="com.UIFramwork.Hitachi.FSA.TestScript.Registration.RegistrationTest"/>
     </classes>
-  </test> <!-- Test -->
+  </test> --> <!-- Test -->
   
-   <test thread-count="5" name="VeriFyLowestPriceFiltrer">
+  <!--  <test thread-count="5" name="VeriFyLowestPriceFiltrer">
     <classes>
       <class name="com.UIFramwork.Hitachi.FSA.TestScript.Productdescription.VerifyLowestPriceFilter"/>
     </classes>
-  </test> <!-- Test -->
+  </test>--> <!-- Test -->
 </suite> <!-- Suite -->
